@@ -61,8 +61,21 @@ codex-skill, ppt, presentation, image2, visual-style, prompt-engineering, slide-
 │   ├── style-interview.md
 │   └── workflow.md
 └── styles/
+    ├── acid-dada-social-collage-deck.md
+    ├── black-orange-portfolio-showcase-deck.md
+    ├── bold-pop-event-poster-deck.md
+    ├── bright-motion-opener-deck.md
+    ├── cozy-creator-social-deck.md
+    ├── electric-lime-agency-deck.md
     ├── french-editorial-commerce.md
     ├── impact-grid-editorial.md
+    ├── lime-mascot-pop-learning-deck.md
+    ├── monochrome-performance-spec-deck.md
+    ├── neon-shadow-campaign-deck.md
+    ├── neon-y2k-bento-grid-deck.md
+    ├── pastel-starter-pack-collage-deck.md
+    ├── rec-blue-editorial-deck.md
+    ├── serif-gradient-pitch-deck.md
     └── terminal-tech-magazine.md
 ```
 
@@ -139,9 +152,22 @@ git pull
 
 | 风格文件 | 适合内容 | 视觉气质 |
 | --- | --- | --- |
-| `terminal-tech-magazine.md` | AI、开发者工具、技术产品、深色视觉报告 | 终端科技杂志风格 |
-| `impact-grid-editorial.md` | 观点型内容、趋势判断、强标题页面 | 冲击力网格编辑风格 |
+| `acid-dada-social-collage-deck.md` | 营销诊断、品牌定位、内容策略、创意广告提案 | 酸性达达社媒拼贴 |
+| `black-orange-portfolio-showcase-deck.md` | 设计师作品集、创意团队提案、品牌案例展示 | 黑橙粗粝作品集 |
+| `bold-pop-event-poster-deck.md` | 活动策划、线下派对、社群 Campaign、青年品牌 | 高饱和手绘活动海报 |
+| `bright-motion-opener-deck.md` | 创意营销、品牌发布、活动开场、视觉提案 | 明亮彩色动效开场 |
+| `cozy-creator-social-deck.md` | 个人 IP、内容创作、社媒运营、创作者课程 | 温暖创作者社媒封面 |
+| `electric-lime-agency-deck.md` | 品牌策略、创意提案、增长方案、团队作品集 | 电光酸橙创意机构 |
 | `french-editorial-commerce.md` | 品牌、消费、生活方式、审美型商业内容 | 法式编辑商业风格 |
+| `impact-grid-editorial.md` | 观点型内容、趋势判断、强标题页面 | 冲击力网格编辑风格 |
+| `lime-mascot-pop-learning-deck.md` | 设计课程、AI 创意课、教育培训、轻量知识科普 | 酸橙吉祥物学习风 |
+| `monochrome-performance-spec-deck.md` | 智能硬件、工业产品、机器人、AI 模型能力 | 单色高性能规格风 |
+| `neon-shadow-campaign-deck.md` | 营销课程、品牌增长、竞争分析、风险提醒 | 暗黑霓虹战役风 |
+| `neon-y2k-bento-grid-deck.md` | 视觉设计提案、品牌 moodboard、青年趋势报告 | 霓虹 Y2K Bento Grid |
+| `pastel-starter-pack-collage-deck.md` | 设计课程、创作者介绍、社群 onboarding、知识卡 | 浅蓝 Starter Pack 拼贴 |
+| `rec-blue-editorial-deck.md` | 创意技术、AI 工具、产品方法论、设计系统 | 蓝色 REC 编辑风 |
+| `serif-gradient-pitch-deck.md` | 营销提案、品牌策略、咨询方案、创业 pitch | 极简衬线渐变 Pitch |
+| `terminal-tech-magazine.md` | AI、开发者工具、技术产品、深色视觉报告 | 终端科技杂志风格 |
 
 ## 新增风格规范
 
@@ -253,8 +279,21 @@ codex-skill, ppt, presentation, image2, visual-style, prompt-engineering, slide-
 │   ├── style-interview.md
 │   └── workflow.md
 └── styles/
+    ├── acid-dada-social-collage-deck.md
+    ├── black-orange-portfolio-showcase-deck.md
+    ├── bold-pop-event-poster-deck.md
+    ├── bright-motion-opener-deck.md
+    ├── cozy-creator-social-deck.md
+    ├── electric-lime-agency-deck.md
     ├── french-editorial-commerce.md
     ├── impact-grid-editorial.md
+    ├── lime-mascot-pop-learning-deck.md
+    ├── monochrome-performance-spec-deck.md
+    ├── neon-shadow-campaign-deck.md
+    ├── neon-y2k-bento-grid-deck.md
+    ├── pastel-starter-pack-collage-deck.md
+    ├── rec-blue-editorial-deck.md
+    ├── serif-gradient-pitch-deck.md
     └── terminal-tech-magazine.md
 ```
 
@@ -331,9 +370,22 @@ Built-in styles:
 
 | Style file | Best for | Visual mood |
 | --- | --- | --- |
-| `terminal-tech-magazine.md` | AI, developer tools, technical products, dark visual reports | Terminal tech magazine |
-| `impact-grid-editorial.md` | Opinion pieces, trend analysis, strong title pages | High-impact editorial grid |
+| `acid-dada-social-collage-deck.md` | Marketing diagnosis, brand positioning, content strategy, creative ad proposals | Acid Dada social collage |
+| `black-orange-portfolio-showcase-deck.md` | Designer portfolios, creative team proposals, brand case studies | Black-orange rough portfolio |
+| `bold-pop-event-poster-deck.md` | Event planning, live events, community campaigns, youth brands | Saturated hand-drawn event poster |
+| `bright-motion-opener-deck.md` | Creative marketing, brand launches, event openers, visual proposals | Bright motion opener |
+| `cozy-creator-social-deck.md` | Personal brands, creator courses, social media strategy, creator portfolios | Cozy creator social cover |
+| `electric-lime-agency-deck.md` | Brand strategy, creative proposals, growth plans, agency portfolios | Electric lime creative agency |
 | `french-editorial-commerce.md` | Brand, consumer, lifestyle, aesthetic business content | French editorial commerce |
+| `impact-grid-editorial.md` | Opinion pieces, trend analysis, strong title pages | High-impact editorial grid |
+| `lime-mascot-pop-learning-deck.md` | Design courses, AI creative classes, education, lightweight knowledge sharing | Lime mascot pop learning |
+| `monochrome-performance-spec-deck.md` | Smart hardware, industrial products, robotics, AI model capabilities | Monochrome performance spec |
+| `neon-shadow-campaign-deck.md` | Marketing courses, brand growth, competitive analysis, risk framing | Neon shadow campaign |
+| `neon-y2k-bento-grid-deck.md` | Visual design proposals, brand moodboards, youth trend reports | Neon Y2K bento grid |
+| `pastel-starter-pack-collage-deck.md` | Design courses, creator intros, community onboarding, knowledge cards | Pastel starter-pack collage |
+| `rec-blue-editorial-deck.md` | Creative technology, AI tools, product methodology, design systems | REC blue editorial |
+| `serif-gradient-pitch-deck.md` | Marketing proposals, brand strategy, consulting plans, startup pitch decks | Minimal serif gradient pitch |
+| `terminal-tech-magazine.md` | AI, developer tools, technical products, dark visual reports | Terminal tech magazine |
 
 ## Adding A New Style
 
