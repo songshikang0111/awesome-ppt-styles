@@ -2,6 +2,40 @@
 
 Style-driven Codex Skill for turning documents, articles, and visual references into image-first presentation decks.
 
+## Style Showcase
+
+The boards below were generated with Image 2 from the same neutral 9-slide showcase: cover, contents, single-image page, multi-image page, text-heavy page, data page, bullet list, workflow, and closing page. The neutral source does not describe any visual style; each board applies only one saved `Style Lock`. Images are hosted as GitHub Release assets so the skill repository stays lightweight when cloned.
+
+这些图用于 README 展示，不属于 skill 运行时文件。
+
+<table>
+  <tr>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/acid-dada-social-collage-deck.png" alt="acid-dada-social-collage-deck showcase" width="280"><br><code>acid-dada-social-collage-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/black-orange-portfolio-showcase-deck.png" alt="black-orange-portfolio-showcase-deck showcase" width="280"><br><code>black-orange-portfolio-showcase-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/bold-pop-event-poster-deck.png" alt="bold-pop-event-poster-deck showcase" width="280"><br><code>bold-pop-event-poster-deck</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/bright-motion-opener-deck.png" alt="bright-motion-opener-deck showcase" width="280"><br><code>bright-motion-opener-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/cozy-creator-social-deck.png" alt="cozy-creator-social-deck showcase" width="280"><br><code>cozy-creator-social-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/electric-lime-agency-deck.png" alt="electric-lime-agency-deck showcase" width="280"><br><code>electric-lime-agency-deck</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/lime-mascot-pop-learning-deck.png" alt="lime-mascot-pop-learning-deck showcase" width="280"><br><code>lime-mascot-pop-learning-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/monochrome-performance-spec-deck.png" alt="monochrome-performance-spec-deck showcase" width="280"><br><code>monochrome-performance-spec-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/neon-shadow-campaign-deck.png" alt="neon-shadow-campaign-deck showcase" width="280"><br><code>neon-shadow-campaign-deck</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/neon-y2k-bento-grid-deck.png" alt="neon-y2k-bento-grid-deck showcase" width="280"><br><code>neon-y2k-bento-grid-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/pastel-starter-pack-collage-deck.png" alt="pastel-starter-pack-collage-deck showcase" width="280"><br><code>pastel-starter-pack-collage-deck</code></td>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/rec-blue-editorial-deck.png" alt="rec-blue-editorial-deck showcase" width="280"><br><code>rec-blue-editorial-deck</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/songshikang0111/awesome-ppt-styles/releases/download/showcase-assets-v1/serif-gradient-pitch-deck.png" alt="serif-gradient-pitch-deck showcase" width="280"><br><code>serif-gradient-pitch-deck</code></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ## Highest Priority Rule
 
 This skill must use the Image 2 model for every generated slide image, thumbnail board, visual page, infographic, article illustration, and PPT page image. HTML output is forbidden: do not use HTML/CSS, browser screenshots, SVG/HTML mockups, canvas renders, PIL, or local scripts as final or intermediate image outputs. If Image 2 is unavailable, stop and state that Image 2 access is required.
